@@ -1,4 +1,4 @@
-FROM httpd:latest
+FROM ubuntu:latest
 MAINTAINER tanzeel.raza@gmail.com
 RUN apt-get install -y httpd \
   zip \
