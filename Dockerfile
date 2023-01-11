@@ -3,7 +3,7 @@
 #
 #
 # Lines preceeded by # are regarded as comments and ignored
-#
+#  
 #
 # The line below states we will base our new image on the Latest Official Ubuntu 
 FROM ubuntu:latest
